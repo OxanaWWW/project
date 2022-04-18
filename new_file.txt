@@ -1,0 +1,4 @@
+odin -  1
+dwa - 2
+tri - 3
+chetire - 4
